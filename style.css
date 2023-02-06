@@ -35,10 +35,6 @@ html, body{
     width: 40%;
   }
 
-  div.card-desc{
-    padding: 0 4%!important;
-  }
-
   div.card-img{
     max-width: 50%;
   }
