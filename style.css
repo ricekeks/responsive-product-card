@@ -30,7 +30,7 @@ html, body{
     width: 100vw;
   }
 
-  div.card{
+  main.card{
     display: flex;
     width: 40%;
   }
@@ -83,7 +83,7 @@ html, body{
 	align-items: center;
 }
 
-div.card{
+main.card{
 	background: #fff;
 	border-radius: 16px;
 }
@@ -116,20 +116,20 @@ div.card-desc p{
   font-size: 1.15rem;
 }
 
+.card-desc h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .5rem;
+  font-size: 1.15rem;
+}
+
 h2{
 	font-weight: 700;
 	color: #000;
 	font-size: 3rem;
   margin: .5vh 0 .5vh 0;
   font-family: 'Fraunces', serif;
-}
-
-h3{
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 500;
-	text-transform: uppercase;
-	letter-spacing: .5rem;
-	font-size: 1.15rem;
 }
 
 .prices{
